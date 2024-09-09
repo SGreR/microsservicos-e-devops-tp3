@@ -1,0 +1,6 @@
+CREATE TABLE fornecedores (
+  id INTEGER AUTO_INCREMENT PRIMARY KEY,
+  nome VARCHAR(255) NOT NULL,
+  cnpj VARCHAR(14) NOT NULL,
+  endereco VARCHAR(255)
+);
