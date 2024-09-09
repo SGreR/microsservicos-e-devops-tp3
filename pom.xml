@@ -17,6 +17,8 @@
 
     <modules>
         <module>produto-service</module>
+        <module>fornecedor-service</module>
+        <module>clima-service</module>
     </modules>
 
     <url/>
